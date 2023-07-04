@@ -1,5 +1,8 @@
 {
-  "LazyVim": { "branch": "main", "commit": "c03b9a3ff1fa1e6acc1db8d7db0c89c562637f7d" },
+  "LazyVim": { "branch": "main", "commit": "e5200e6358766f2ba71eb229cb335c4c811902bb" },
   "catppuccin": { "branch": "main", "commit": "12894370fa3c9e2200f3724c4184354d6b79733a" },
-  "lazy.nvim": { "branch": "main", "commit": "4c8b625bc873ca76b76eee0c28c98f1f7148f17f" }
+  "lazy.nvim": { "branch": "main", "commit": "0d61488b89a570415177f75a36ef93616aac6c77" },
+  "nvim-treesitter": { "branch": "master", "commit": "c42a8f96d37be82cf32934c4351150d7736f93f5" },
+  "plenary.nvim": { "branch": "master", "commit": "102c02903c74b93c705406bf362049383abc87c8" },
+  "telescope.nvim": { "branch": "master", "commit": "776b509f80dd49d8205b9b0d94485568236d1192" }
 }
